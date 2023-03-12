@@ -1,1 +1,2 @@
-# Programming-projects
+# Discord Bot
+
